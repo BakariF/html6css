@@ -1,0 +1,81 @@
+.vert {
+    background-color: green;
+    width:70%;
+    height:40px;
+}
+
+.bleu {
+    background-color: blue;
+    width: 30%;
+    height: 40px;
+    position: relative;
+    top: -40px;
+    left: 70%;
+}
+
+.rouge {
+    background-color: red;
+    width:35%;
+    height: 160px;
+    position: relative;
+    top: -40px;
+}
+
+.passion {
+    background-color: rgb(245, 176, 28);
+    width: 33%;
+    height: 60px;
+    position: relative;
+    top: -200px;
+    left: 35%;
+}
+
+
+.gris {
+    background-color: rgb(88, 88, 92);
+    width: 32%;
+    height: 60px;
+    position: relative;
+    top: -260px;
+    left: 68%;
+
+}
+
+.jaune {
+    background-color: rgb(255, 251, 0);
+    width: 21%;
+    height: 60px;
+    position: relative;
+    top: -260px;
+    left: 35%;
+
+}
+
+.red {
+    background-color: rgb(204, 99, 30);
+    width: 22%;
+    height: 60px;
+    position: relative;
+    top: -320px;
+    left: 78%;
+
+}
+
+.waw {
+    background-color: rgb(8, 46, 61);
+    width: 100%;
+    height: 240px;
+    position: relative;
+    top:-320px ;
+
+}
+
+.beurk {
+    background-color: rgba(27, 180, 168, 0.295);
+    width: 22%;
+    height: 60px;
+    position: relative;
+    top: -620px;
+    left: 56%;
+    
+}
